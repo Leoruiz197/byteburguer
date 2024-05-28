@@ -1,0 +1,11 @@
+.logo {
+    width: 250px; /* Ajuste o tamanho conforme necessário */
+}
+
+.construction-text {
+    font-size: 3rem; /* Aumenta o tamanho do texto "Em construção" */
+}
+
+.full-height {
+    height: 100vh;
+}
